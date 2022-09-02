@@ -1,0 +1,29 @@
+.navbar-toggler{
+	border: solid gray 1px!important;
+}
+.nav-link{
+	color: white!important;
+}
+.navbar-brand{
+	color: white!important;
+}
+.bg-gray {
+	background-color: #343A40;
+}
+.port {
+	background: #E9ECEF!important;
+}
+.lead {
+	font-size: 16px!important;
+}
+.bg-white{
+	color:#343A40!important;
+}
+.questionnaire {
+	width: 	445px!important;
+	padding-left: 75px;
+}
+.rectangle {
+position: relative;
+right: 40px;
+}
